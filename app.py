@@ -2,9 +2,9 @@
 import time
 
 number = input("ENTER NUMBER OF 67 S to MAKE")
-print(f"69 WILL BE REEPEATED {number} times!!!!!!!!")
+print(f"67 WILL BE REEPEATED {number} times!!!!!!!!")
 
 for num in number:
-  print ("69")
+  print ("67")
 
 # hehehehehe
